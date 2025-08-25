@@ -1,5 +1,4 @@
 # Moving from Complexity to Clarity in Supply Chain
-![](https://github.com/poojapatel26/Supply-Chain-Analytics/blob/main/tableau_dashboard.png)
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
 
